@@ -1,3 +1,5 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
+
+\n This repository is for practicing the GitHub Flow.
